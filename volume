@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#000; }
 
 #player #volume{ width:65px; right:39px; } 
-#player #volumeSlider{ width:8px; background:url(https://i.pinimg.com/1200x/a3/08/da/a308da65759a6fae16e00b3ce5bc34d6.jpg); }
+#player #volumeSlider{ width:8px; background:url(https://raw.githubusercontent.com/vanillaparfume/volume/main/%E2%97%9E%20%E0%BE%80%E0%BD%B2%E2%97%9F%20%CD%9C%20%20%E2%9C%8E%20%20%E2%9D%A4%EF%B8%8E%20ig%CE%B1ridoll.jpg); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#FFFFFF;}
 #playlist .module{  color:#000000; background-color:#FFFFFF; }
